@@ -5,10 +5,10 @@
         <v-img
           class="white--text align-end text-center font-italic"
           :class="{'headline': $vuetify.breakpoint. smAndDown, 'display-1': $vuetify.breakpoint. mdAndUp}"
-          src="/image/my-portfolio-top.jpg"
+          src="@/assets/images/Top-background.jpg"
         >
-          <p>Wissen ist Macht</p>
-          <p>知は力なり</p>
+          <p>Practice Makes Perfect</p>
+          <p>継続は力なり</p>
         </v-img>
       </v-card>
     </v-container>

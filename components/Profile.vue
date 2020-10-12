@@ -41,13 +41,13 @@ export default {
     profiles: [
       { content: 'AKINORI (あきのり) ' },
       { content: '1989年愛知県生まれ' },
-      { content: '旅人からWebエンジニア' },
+      { content: '旅人からWeb系エンジニア' },
       { content: 'プログラミングとブログ継続中' },
       { content: '旅とスノーボード狂' },
       { content: '妻と話すのが毎日の幸せ' },
       { content: 'バックパッカー歴5年' },
-      { content: '頑固' },
-      { content: '真ん中っ子だけど、全然協調性ない' },
+      { content: '真面目、誠実' },
+      { content: 'やると決めたことには全力' },
       { content: '英語も勉強中' },
       { content: '現在無職' }
     ]

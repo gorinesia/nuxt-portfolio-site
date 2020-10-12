@@ -5,9 +5,9 @@
       color="indigo"
       style="color: white"
     >
-      <v-app-bar-nav-icon color="white" @click="drawer=true"></v-app-bar-nav-icon>
+    <v-app-bar-nav-icon color="white" @click="drawer=true"></v-app-bar-nav-icon>
       <v-toolbar-title>
-        SHOOT's Portfolio
+        AKI's Portfolio
       </v-toolbar-title>
       <v-spacer />
     </v-app-bar>
@@ -16,15 +16,15 @@
       v-model="drawer"
       fixed
       temporary
+    >
+      <v-list
+        nav
+        dense
       >
-        <v-list
-          nav
-          dense
+        <v-list-item-group
+          v-model="group"
+          active-class="indigo--text text--accent-4"
         >
-          <v-list-item-group
-            v-model="group"
-            active-class="indigo--text text--accent-4"
-          >
           <nuxt-link v-scroll-to="'#profile'" to>
             <v-list-item>
               <v-list-item-icon>
@@ -64,22 +64,18 @@
                 contact
               </v-list-item-title>
             </v-list-item>
-            </nuxt-link>
-          </v-list-item-group>
-        </v-list>
-      </v-navigation-drawer>
+          </nuxt-link>
+        </v-list-item-group>
+      </v-list>
+    </v-navigation-drawer>
 
-    <v-content
-    fluid>
-        <nuxt />
+    <v-content fluid>
+      <nuxt />
     </v-content>
 
-    <v-footer
-    app
-    color="indigo"
-    >
-    <v-spacer />
-    <span style="color: white">&copy; 2020 Shuto Matsuyuki. All Rights Reserved.</span>
+    <v-footer app color="indigo">
+      <v-spacer />
+      <span style="color: white">&copy; 2020 Akinori Sakakibara. All Rights Reserved.</span>
     </v-footer>
   </v-app>
 </template>
