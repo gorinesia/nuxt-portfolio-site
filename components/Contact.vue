@@ -22,7 +22,7 @@
 export default {
   data: () => ({
     src:
-    'https://docs.google.com/forms/d/e/1FAIpQLSfuuO5PE6Gr77I2gn4KpJcY0qV9885hvGMAjQb5OwfjmX3ojw/viewform?embedded=true'
+    'https://docs.google.com/forms/d/e/1FAIpQLSdAf7kNv03xXz-ImRTXEoHJmszGKQhw5c-TwV7Sx3Akch56mg/viewform?embedded=true'
   })
 }
 </script>
