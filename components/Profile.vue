@@ -46,7 +46,8 @@ export default {
       { content: '旅とスノーボード狂' },
       { content: '妻と話すのが毎日の幸せ' },
       { content: 'バックパッカー歴5年' },
-      { content: '真面目、誠実、行動力強め' },
+      { content: '真面目、誠実','行動力強め' },
+      { content: 'やると決めたことには全力' },
       { content: '協調性もちつつ、人を引っ張る' },
       { content: '英語も勉強中' },
       { content: '現在無職' }
