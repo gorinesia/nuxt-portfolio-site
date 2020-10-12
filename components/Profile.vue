@@ -13,7 +13,7 @@
               <!-- v-avatar:アバター表示  -->
               <v-avatar width="80%" height="auto">
                 <!-- objet-fit:cover 画像中央トリミング表示。static/imageに配置した画像を参照  -->
-                <img src="/image/my-portfolio-profile.jpg" alt="SHOOT" style="object-fit: cover;">
+                <img src="/image/myPhoto.jpg" alt="AKI" style="object-fit: cover;">
               </v-avatar>
             </v-row>
           </v-col>
@@ -39,7 +39,7 @@
 export default {
   data: () => ({
     profiles: [
-      { content: 'AKINORI (あきのり) ' },
+      { content: 'AKINORI SAKAKIBARA (さかきばら あきのり) ' },
       { content: '1989年愛知県生まれ' },
       { content: '旅人からWeb系エンジニア' },
       { content: 'プログラミングとブログ継続中' },

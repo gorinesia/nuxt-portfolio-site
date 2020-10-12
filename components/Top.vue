@@ -5,7 +5,7 @@
         <v-img
           class="white--text align-end text-center font-italic"
           :class="{'headline': $vuetify.breakpoint. smAndDown, 'display-1': $vuetify.breakpoint. mdAndUp}"
-          src="@/assets/images/Top-background.jpg"
+          src="/image/Top-background.jpg"
         >
           <p>Practice Makes Perfect</p>
           <p>継続は力なり</p>
