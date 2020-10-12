@@ -50,7 +50,9 @@
 export default {
   data: () => ({
     cards: [
-      { title: 'AKI Programming Blog', skill: 'Wordpress', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', redirect_url: 'https://ina-yona-mochiko.com/', flex: { cols: 12, sm: 6, md: 6 } }
+      { title: 'Portfolio Page', skill: 'Nuxt×Vuetify', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', redirect_url: 'https://shoot-portfolio.netlify.com/', flex: { cols: 12, sm: 6, md: 6 } },
+      { title: 'AKI Programming Blog', skill: 'Wordpress', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', redirect_url: 'https://ina-yona-mochiko.com/', flex: { cols: 12, sm: 6, md: 6 } },
+      { title: 'GitHub', skill: 'HTML×CSSxJavaScriptxVue.js×Nuxt.js', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', redirect_url: 'https://github.com/gorinesia', flex: { cols: 12, sm: 6, md: 6 } }
     ]
   })
 }
