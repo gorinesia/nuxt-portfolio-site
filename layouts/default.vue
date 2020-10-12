@@ -2,7 +2,7 @@
   <v-app v-cloak>
     <v-app-bar
       app
-      color="indigo"
+      color="cyan darken-1"
       style="color: white"
     >
     <v-app-bar-nav-icon color="white" @click="drawer=true"></v-app-bar-nav-icon>
@@ -73,7 +73,7 @@
       <nuxt />
     </v-content>
 
-    <v-footer app color="indigo">
+    <v-footer app color="cyan darken-1">
       <v-spacer />
       <span style="color: white">&copy; 2020 Akinori Sakakibara. All Rights Reserved.</span>
     </v-footer>
