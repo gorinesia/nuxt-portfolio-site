@@ -50,9 +50,9 @@
 export default {
   data: () => ({
     cards: [
-      { title: 'Portfolio Page', skill: 'Nuxt×Vuetify', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', redirect_url: 'https://shoot-portfolio.netlify.com/', flex: { cols: 12, sm: 6, md: 6 } },
-      { title: 'Twitter-like SNS', skill: 'Laravel×Vue×MySql×MySql×Redis', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', redirect_url: 'https://kumatetsublog.com/laravel-tutorial-web-application', flex: { cols: 12, sm: 6, md: 6 } },
-      { title: 'AKI Programming Blog', skill: 'Wordpress', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', redirect_url: 'https://ina-yona-mochiko.com/', flex: { cols: 12, sm: 6, md: 6 } }
+      { title: 'Portfolio WireFrame', skill: 'Nuxt.js×firebase', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', redirect_url: 'https://xd.adobe.com/view/c2065c39-9ec0-4507-84ef-7a759bb0ebcc-9755/', flex: { cols: 12, sm: 6, md: 6 } },
+      { title: 'AKI Programming Blog', skill: 'Wordpress', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', redirect_url: 'https://ina-yona-mochiko.com/', flex: { cols: 12, sm: 6, md: 6 } },
+      { title: 'GitHub', skill: 'HTML×CSSxJavaScriptxVue.js×Nuxt.js', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', redirect_url: 'https://github.com/gorinesia', flex: { cols: 12, sm: 6, md: 6 } }
     ]
   })
 }
