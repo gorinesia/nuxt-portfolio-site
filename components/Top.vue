@@ -7,8 +7,8 @@
           :class="{'headline': $vuetify.breakpoint. smAndDown, 'display-1': $vuetify.breakpoint. mdAndUp}"
           src="/image/my-portfolio-top.jpg"
         >
-          <p>Wissen ist Macht</p>
-          <p>知は力なり</p>
+          <p>Practice makes Perfect</p>
+          <p>継続は力なり</p>
         </v-img>
       </v-card>
     </v-container>

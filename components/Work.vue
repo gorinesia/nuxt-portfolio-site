@@ -52,7 +52,7 @@ export default {
     cards: [
       { title: 'Portfolio Page', skill: 'Nuxt×Vuetify', src: 'https://cdn.vuetifyjs.com/images/cards/house.jpg', redirect_url: 'https://shoot-portfolio.netlify.com/', flex: { cols: 12, sm: 6, md: 6 } },
       { title: 'Twitter-like SNS', skill: 'Laravel×Vue×MySql×MySql×Redis', src: 'https://cdn.vuetifyjs.com/images/cards/road.jpg', redirect_url: 'https://kumatetsublog.com/laravel-tutorial-web-application', flex: { cols: 12, sm: 6, md: 6 } },
-      { title: 'SHOOT Blog', skill: 'Wordpress', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', redirect_url: 'https://kumatetsublog.com/', flex: { cols: 12, sm: 6, md: 6 } }
+      { title: 'AKI Programming Blog', skill: 'Wordpress', src: 'https://cdn.vuetifyjs.com/images/cards/plane.jpg', redirect_url: 'https://ina-yona-mochiko.com/', flex: { cols: 12, sm: 6, md: 6 } }
     ]
   })
 }

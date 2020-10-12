@@ -7,7 +7,7 @@
     >
       <v-app-bar-nav-icon color="white" @click="drawer=true"></v-app-bar-nav-icon>
       <v-toolbar-title>
-        SHOOT's Portfolio
+        AKI's Portfolio
       </v-toolbar-title>
       <v-spacer />
     </v-app-bar>
@@ -79,7 +79,7 @@
     color="indigo"
     >
     <v-spacer />
-    <span style="color: white">&copy; 2020 Shuto Matsuyuki. All Rights Reserved.</span>
+    <span style="color: white">&copy; 2020 Akinori Sakakibara. All Rights Reserved.</span>
     </v-footer>
   </v-app>
 </template>
